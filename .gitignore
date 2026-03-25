@@ -1,0 +1,22 @@
+# IDE files
+.idea/
+.vscode
+
+# dataset
+data/
+*.zip
+
+# model
+models/
+*.pth
+
+# output
+output/
+
+# submodules
+submodules/
+submodules/simple-knn
+
+# Python cache files
+__pycache__/
+*.pyc
